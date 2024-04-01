@@ -1,0 +1,32 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Dhruv",
+      "email": "dhruv143@gmail.com",
+      "phone": "8877665544",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmgrNEFbLiLuEKnl2IOwU3UHxGOV62cbLQISn0G3fDaA&s"
+    },
+    {
+      "id": 2,
+      "name": "Harmione Granger",
+      "email": "harmione@gmail.com",
+      "phone": "5656565656",
+      "image": "https://qph.cf2.quoracdn.net/main-qimg-1d13fb444d6cfbc88f6fae0acb630c7c-lq"
+    },
+    {
+      "id": 3,
+      "name": "Harry Potter",
+      "email": "harry@gmail.com",
+      "phone": "9995552228",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSahUCh0CA4OFYj5p2N6EjH5oJf1S0IafgXyHHIvUi5bw&s"
+    },
+    {
+      "id": 4,
+      "name": "Ron Weasly",
+      "email": "ron@gmail.com",
+      "phone": "8532461528",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ151ZgxjB0I_xUwIooVv42wk7-mn47iFIXi1ZDixeewQ&s"
+    }
+  ]
+}
